@@ -1,7 +1,7 @@
 
 # Primrose Selfbot
 
-A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow devs cry.
+A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow devs cry. Finally a good one.
 - This is **not free**, stop spamming my DMs.
 - I am **not** responsible for any of your bans/loss/mistakes while using the bot.
 - Scroll to the bottom for screenshots
