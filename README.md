@@ -7,11 +7,11 @@ A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow de
 - Scroll to the bottom for screenshots
 
 # Stats
-Stats were updated on `23:13 18/5/2023 AEST` or `09:12 18/5/2023 EST`
-- **Pokemons Caught**: 92k
-- **Legendaries Caught**: 522
+Stats are here to demonstrate how effective the bot is. Stats were updated on `23:13 18/5/2023 AEST` or `09:12 18/5/2023 EST`
+- **Pokemons Caught**: 292k
+- **Legendaries Caught**: 561
 - **Shinies Caught**: 178
-- **Fishes Caught**: 42k
+- **Fishes Caught**: 72k
 - **Legendary Fishes Caught**: 159
 - **Shiny Fishes Caught**: 12
 - **Golden Fishes Caught**: None
