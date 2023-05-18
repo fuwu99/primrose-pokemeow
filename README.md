@@ -1,5 +1,5 @@
 
-# Primrose
+# Primrose Selfbot
 
 A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow devs cry.
 - This is **not free**, stop spamming my DMs.
@@ -22,6 +22,8 @@ A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow de
 - Can **hunt, fish, and battle** efficiently & **buy balls automatically**.
 - **Automate EVERY single task in the game.**
 - *A gigachad captcha slayer* 🤺 **[99.9621% accuracy / over 66k tests]**, solves captchas in *2 seconds* and has a brain to choose the *closest matching option* just in case he EVER solves it incorrectly. It’s safe to say that it’s *impossible* to ever fail a captcha. **(UPDATE: IT NOW SOLVES CAPTCHA AGAIN TOO!)**
+- Webhooks
+- Windows Notifications/Toasts!
 - **Profiled configs** allow running *multiple accounts* from just **one main file**, and provides further convenience with **separated configs**.
 - Code is always getting **updated and improved**, and updates are *FREE FOREVER*.
 - Everything, and I meant **EVERYTHING is customizable** in the configuration.
@@ -42,6 +44,7 @@ It doesn’t require a super beefy computer to run, but any computer there is. S
 ![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/inventory%20scraping.PNG)
 ![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/hot.PNG)
 ![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/notifs.png)
+![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/webhook.png)
 
 ## How can I get it?
 First of all, it isn't free. You can purchase each part of the bot separately, or buy from bundles for reduced price. **The captcha solver is NOT included in individual purchases**. See `Pricing`. Please DM me on Discord to make your purchase, sometimes prices might be negotiable.
