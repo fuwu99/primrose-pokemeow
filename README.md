@@ -5,6 +5,7 @@ A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow de
 - This is **not free**, stop spamming my DMs.
 - I am **not** responsible for any of your bans/loss/mistakes while using the bot.
 - Scroll to the bottom for screenshots
+
 ## Overview
 
 - **Modern, easy to use, feature-rich and responsive**.
@@ -64,6 +65,9 @@ First of all, it isn't free. You can purchase each part of the bot separately, o
 - If you share this Github repo to somebody else, **and a purchase is made by that person**, then you would get a **5% discount** from all your purchases in the future.
 - The Custom-made Battletower bot will probably **won't be on sale for long**.
 - If you want me to add extra capabilities for the bot, or custom-made a part of the bot, please let me know! I'll be sure to share a helping hand, but it may cost you a little more! so... xd
+
+I also do grind, fish, battle, swap, battletower service/commision for a fair price, DM on Discord for info `vanta#0099`
+
 ## Battletower Bot Capabilities
 
 This is an extra section made for people who are curious about what the Battletower Bot can do. 
@@ -133,6 +137,15 @@ It's the game's fault for being boring, instead of spending precious hours of my
 Click on the link to get my profile.
 ##### [vanta#0099](https://www.discordapp.com/users/509599684495671296)
 ##### [suicao#7766](https://www.discordapp.com/users/1074061521979703306)
+
+## In development
+In bold: Implemented
+- Mixed grinding mode (fish, battle, hunt)
+- **Automatic swapping**
+- **Automatic fossil exchanging**
+- **Automatic Event Ticket purchasing**
+- Add more configuration
+If you have any good ideas and want me to implement it, DM me via Discord! If it's a really good suggestion, you might get a one-month trial of the bot's features too!
 
 ## Screenshots
 ![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/captcha%20solving.PNG)
