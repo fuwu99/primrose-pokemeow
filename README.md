@@ -4,6 +4,7 @@
 A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow devs cry.
 - This is **not free**, stop spamming my DMs.
 - I am **not** responsible for any of your bans/loss/mistakes while using the bot.
+- Scroll to the bottom for screenshots
 ## Overview
 
 - **Modern, easy to use, feature-rich and responsive**.
@@ -38,13 +39,6 @@ It doesn’t require a super beefy computer to run, but any computer there is. S
 - **CPU**: Any CPUs, 1.5GHz and above.
 - **RAM**: 500MB of available RAM to be able to operate, runs smoothly at 2GB and up. Insufficient RAM may cause program to freeze.
 - **GPU**: Optional, will obv boost captcha solving speed (not needed tbh).
-## Screenshots
-
-![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/captcha%20solving.PNG)
-![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/inventory%20scraping.PNG)
-![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/hot.PNG)
-![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/notifs.png)
-![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/webhook.png)
 
 ## How can I get it?
 First of all, it isn't free. You can purchase each part of the bot separately, or buy from bundles for reduced price. **The captcha solver is NOT included in individual purchases**. See `Pricing`. Please DM me on Discord to make your purchase, sometimes prices might be negotiable.
@@ -134,7 +128,20 @@ It provides too much of an advantage to people who purchase this bot, this can't
 #### Why bot?
 
 It's the game's fault for being boring, instead of spending precious hours of my time on the pointless bot I can just automate all of them. I'm only releasing this trying to find my way out of the game, but Ive gotta ruin the whole playerbase first.
+
 ## Authors
 Click on the link to get my profile.
 ##### [vanta#0099](https://www.discordapp.com/users/509599684495671296)
 ##### [suicao#7766](https://www.discordapp.com/users/1074061521979703306)
+
+## Screenshots
+![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/captcha%20solving.PNG)
+![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/inventory%20scraping.PNG)
+![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/hot.PNG)
+![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/notifs.png)
+![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/webhook.png)
+![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/preview.PNG)
+![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/lege3.PNG)
+![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/fishie.PNG)
+![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/drip%20fuzzy%20matching.PNG)
+![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/fullodds%20drip.PNG)
