@@ -38,8 +38,8 @@ It doesn’t require a super beefy computer to run, but any computer there is. S
 - **GPU**: Optional, will obv boost captcha solving speed (not needed tbh).
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/captcha%20solving.PNG)
+![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/inventory%20scraping.PNG)
 
 ## How can I get it?
 First of all, it isn't free. You can purchase each part of the bot separately, or buy from bundles for reduced price. **The captcha solver is NOT included in individual purchases**. See `Pricing`. Please DM me on Discord to make your purchase, sometimes prices might be negotiable.
