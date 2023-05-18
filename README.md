@@ -105,9 +105,8 @@ This is an extra section made for people who are curious about what the Battleto
 - Clean, viewable.
 - The information displayed in the bot console is totally customizable, showing basically anything you want (ally's/opponent's stats, weaknesses, potential moveset, effective moves, moves used, health bars - pretty af,...).
 ## Documentation
-
+Unreleased. Estimated release `31/5/2023`
 [Documentation](https://linktodocumentation) / [Guide](https://linktodocumentation)
-
 
 ## FAQ
 
