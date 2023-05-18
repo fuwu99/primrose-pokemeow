@@ -6,6 +6,14 @@ A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow de
 - I am **not** responsible for any of your bans/loss/mistakes while using the bot.
 - Scroll to the bottom for screenshots
 
+# Stats
+Stats are updated on `23:13 18/5/2023 AEST` or `09:12 18/5/2023 EST`
+- **Pokemons Caught**: 92k
+- **Fishes Caught**: 42k
+- **Battles Won**: 22k
+- **Battletower Floors Cleared**: 17k
+- **Captchas Solved**: 8k
+
 ## Overview
 
 - **Modern, easy to use, feature-rich and responsive**.
