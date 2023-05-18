@@ -133,5 +133,5 @@ It provides too much of an advantage to people who purchase this bot, this can't
 It's the game's fault for being boring, instead of spending precious hours of my time on the pointless bot I can just automate all of them. I'm only releasing this trying to find my way out of the game, but Ive gotta ruin the whole playerbase first.
 ## Authors
 Click on the link to get my profile.
-##### [vanta#0099](discordapp.com/users/509599684495671296)
-##### [suicao#7766](discordapp.com/users/1074061521979703306)
+##### [vanta#0099](https://www.discordapp.com/users/509599684495671296)
+##### [suicao#7766](https://www.discordapp.com/users/1074061521979703306)
