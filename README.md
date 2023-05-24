@@ -9,18 +9,18 @@ A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow de
 ![App Screenshot](https://cdn.discordapp.com/attachments/1105446972313317427/1108746373928591360/rsz_1untitled-removebg-preview.png)
 
 # Stats
-Stats are here to demonstrate how effective the bot is. Stats were updated on `23:13 18/5/2023 AEST` or `09:12 18/5/2023 EST`
-- **Pokemons Caught**: 292k
-- **Legendaries Caught**: 561
-- **Shinies Caught**: 178
-- **Fishes Caught**: 72k
-- **Legendary Fishes Caught**: 159
-- **Shiny Fishes Caught**: 12
+Stats are here to demonstrate how effective the bot is. Stats were updated on `20:08 24/5/2023 AEST` or `06:09 24/5/2023 EST`
+- **Pokemons Caught**: 322k
+- **Legendaries Caught**: 631
+- **Shinies Caught**: 201
+- **Fishes Caught**: 87k
+- **Legendary Fishes Caught**: 189
+- **Shiny Fishes Caught**: 18
 - **Golden Fishes Caught**: None
-- **Battles Won**: 22k
+- **Battles Won**: 23k
 - **Battletower Floors Cleared**: 17k
-- **Battle Icons Retrieved**: 26
-- **Captchas Solved**: 8k
+- **Battle Icons Retrieved**: 27
+- **Captchas Solved**: 9k
 
 ## Overview
 
