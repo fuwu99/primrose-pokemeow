@@ -5,6 +5,7 @@ A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow de
 - This is **not free**, stop spamming my DMs.
 - I am **not** responsible for any of your bans/loss/mistakes while using the bot.
 - Scroll to the bottom for screenshots
+- [!] The program doesn't use any external captcha solving services like 2captcha, saving alot of money in the long run.
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1105446972313317427/1108746373928591360/rsz_1untitled-removebg-preview.png)
 
@@ -42,6 +43,10 @@ Stats are here to demonstrate how effective the bot is. Stats were updated on `2
 - *A gigachad captcha slayer* 🤺 **[99.9621% accuracy / over 66k tests]**, solves captchas in *2 seconds* and has a brain to choose the *closest matching option* just in case he EVER solves it incorrectly. It’s safe to say that it’s *impossible* to ever fail a captcha. **(UPDATE: IT NOW SOLVES CAPTCHA AGAIN TOO!)**
 - Webhooks
 - Windows Notifications/Toasts!
+- Custom Colors!
+- User Commands to control the bot's behaviour remotely!
+- Automatic Mode Switching if 
+- Automatic Fossil Exchanging / Research Items Exchanging
 - **Profiled configs** allow running *multiple accounts* from just **one main file**, and provides further convenience with **separated configs**.
 - Code is always getting **updated and improved**, and updates are *FREE FOREVER*.
 - Everything, and I meant **EVERYTHING is customizable** in the configuration.
