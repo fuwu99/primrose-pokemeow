@@ -67,7 +67,7 @@ It doesn’t require a super beefy computer to run, but any computer there is. S
 First of all, it isn't free. You can purchase each part of the bot separately, or buy from bundles for reduced price. **The captcha solver is NOT included in individual purchases**. See `Pricing`. Please DM me on Discord to make your purchase, sometimes prices might be negotiable.
 
 
-## Pricing
+## Pricing (BEING CHANGED)
 **A little note:** The captcha solver itself even when not paired with any of the other parts (hunting, fishing,...) still solves captchas automatically whenever you encounter one. `PC stands for Pokecoins / USD for US dollars`
 
 - **Captcha solver** - 12,000,000 PC / 8 USD
