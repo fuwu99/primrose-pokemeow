@@ -1,11 +1,12 @@
 
 # Primrose Selfbot
 
-A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow devs cry. Finally a good one.
+A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow devs cry.
 - This is **not free**, stop spamming my DMs.
 - I am **not** responsible for any of your bans/loss/mistakes while using the bot.
 - Scroll to the bottom for screenshots
 - [!] The program doesn't use any external captcha solving services like 2captcha, saving alot of money in the long run.
+- **POKEMEOW JUST ADDED AN ANTI-CHEAT!! THIS BOT IS ABLE TO BYPASS THAT!!**
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1105446972313317427/1108746373928591360/rsz_1untitled-removebg-preview.png)
 
