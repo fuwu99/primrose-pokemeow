@@ -9,7 +9,7 @@ A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow de
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1105446972313317427/1108746373928591360/rsz_1untitled-removebg-preview.png)
 
-# New Captcha System & Anticheat
+# Newest changes
 Pokemeow recently implemented an anti-cheat, which automatically bans accounts who they deem to be suspicious of botting. [UPDATE!] Pokemeow just added a new Captcha System too. Bot status:
 - [BYPASSED!] Pokemeow's built-in anticheat.
 - [BYPASSED!] Pokemeow's latest Captcha system involving text-only responses, and harder captcha images.
@@ -33,7 +33,7 @@ Stats are here to demonstrate how effective the bot is. Stats were updated on `2
 
 - **Modern, easy to use, feature-rich and responsive**.
 - Utilizes *modern Pythonic API* via asyncio.
-- A *rate limit handler* included, preventing *[429: TOO MANY REQUESTS]* errors.
+- A *rate limit handler* included, preventing *[429: TOO MANY REQUESTS]* errors & rate-limits.
 - Supreme in both **speed and memory usage**.
 - **Fully prevents detection** of user account automation.
 - **Adaptable** to your Internet Connection!
@@ -162,8 +162,8 @@ It's the game's fault for being boring, instead of spending precious hours of my
 
 ## Authors
 Click on the link to get my profile.
-##### [vanta#0099](https://www.discordapp.com/users/509599684495671296)
-##### [suicao#7766](https://www.discordapp.com/users/1074061521979703306)
+##### [vanta#0099]()
+##### [suicao#7766]()
 
 ## In development
 In bold: Implemented
