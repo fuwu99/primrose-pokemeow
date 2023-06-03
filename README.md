@@ -6,9 +6,14 @@ A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow de
 - I am **not** responsible for any of your bans/loss/mistakes while using the bot.
 - Scroll to the bottom for screenshots
 - [!] The program doesn't use any external captcha solving services like 2captcha, saving alot of money in the long run.
-- **POKEMEOW JUST ADDED AN ANTI-CHEAT!! THIS BOT IS ABLE TO BYPASS THAT!!**
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1105446972313317427/1108746373928591360/rsz_1untitled-removebg-preview.png)
+
+# New Captcha System & Anticheat
+Pokemeow recently implemented an anti-cheat, which automatically bans accounts who they deem to be suspicious of botting. [UPDATE!] Pokemeow just added a new Captcha System too. Bot status:
+- [BYPASSED!] Pokemeow's built-in anticheat.
+- [BYPASSED!] Pokemeow's latest Captcha system involving text-only responses, and harder captcha images.
+- [ADDED!] Human Behaviour Imitation with breaks, decoys, player interactions, etc.
 
 # Stats
 Stats are here to demonstrate how effective the bot is. Stats were updated on `20:08 24/5/2023 AEST` or `06:09 24/5/2023 EST`
@@ -68,23 +73,24 @@ First of all, it isn't free. You can purchase each part of the bot separately, o
 
 
 ## Pricing (BEING CHANGED)
-**A little note:** The captcha solver itself even when not paired with any of the other parts (hunting, fishing,...) still solves captchas automatically whenever you encounter one. `PC stands for Pokecoins / USD for US dollars`
+**A little note:** The captcha solver itself even when not paired with any of the other parts (hunting, fishing,...) still solves captchas automatically whenever you encounter one. **The pricings include unlimited accounts, and a limit of 2 devices.** `USD stands for US dollars`
 
-- **Captcha solver** - 12,000,000 PC / 8 USD
-- **Hunting (/pokemon)** - 22,000,000 PC / 15 USD
-- **Fishing (/fish spawn)** - 22,000,000 PC / 15 USD
-- **Battling (/battle)** - 17,000,000 PC / 10 USD
-- **Custom-made Battletower Bot** - 350,000,000 PC / 350 USD
+- **Captcha solver** - 8 USD
+- **Hunting (/pokemon)** - 15 USD
+- **Fishing (/fish spawn)** - 15 USD
+- **Battling (/battle)** - 10 USD
+- **Swapping (/swap)** - 3 USD
+- **Custom-made Battletower Bot** - 200 USD
 
 **Bundles:** `CS stands for Captcha Solver`
 
-- **Bundle 1**: Hunting + CS - 25,000,000 PC / 15 USD
-- **Bundle 2**: Hunting + Fishing + CS - 40,000,000 PC / 27 USD
-- **Bundle 3**: Hunting + Fishing + Battle + CS - 55,000,000 PC / 35 USD
+- **Bundle 1**: Hunting + CS - 15 USD
+- **Bundle 2**: Hunting + Fishing + CS - 27 USD
+- **Bundle 3**: Hunting + Fishing + Battle + CS - 35 USD
 
-**Bundles content and prices are subjected to change in the future**. Prices might be negotiable, please add and DM me on Discord `vanta#0099`.
+**Bundles content and prices are subjected to change in the future**. Prices might be negotiable.
 
-- If you share this Github repo to somebody else, **and a purchase is made by that person**, then you would get a **5% discount** from all your purchases in the future.
+- If you share this Github repo to somebody else, **and a purchase is made by that person**, then you would get a **5% discount** from all your own purchases in the future.
 - The Custom-made Battletower bot will probably **won't be on sale for long**.
 - If you want me to add extra capabilities for the bot, or custom-made a part of the bot, please let me know! I'll be sure to share a helping hand, but it may cost you a little more! so... xd
 
