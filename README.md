@@ -14,6 +14,7 @@ Pokemeow recently implemented an anti-cheat, which automatically bans accounts w
 - [BYPASSED!] Pokemeow's built-in anticheat.
 - [BYPASSED!] Pokemeow's latest Captcha system involving text-only responses, and harder captcha images.
 - [ADDED!] Human Behaviour Imitation with breaks, decoys, player interactions, etc.
+- [ADDED!] Multi-account running mode! Run all your player profiles in just one command! Comes as an extension to the main cogs.
 
 # Stats
 Stats are here to demonstrate how effective the bot is. Stats were updated on `20:08 24/5/2023 AEST` or `06:09 24/5/2023 EST`
@@ -94,7 +95,7 @@ First of all, it isn't free. You can purchase each part of the bot separately, o
 - The Custom-made Battletower bot will probably **won't be on sale for long**.
 - If you want me to add extra capabilities for the bot, or custom-made a part of the bot, please let me know! I'll be sure to share a helping hand, but it may cost you a little more! so... xd
 
-I also do grind, fish, battle, swap, battletower service/commision for a fair price, DM on Discord for info `vanta#0099`
+I also do grind, fish, battle, swap, battletower service/commision for a fair price
 
 ## Battletower Bot Capabilities
 
@@ -118,6 +119,7 @@ This is an extra section made for people who are curious about what the Battleto
 #### Interface 
 - Clean, viewable.
 - The information displayed in the bot console is totally customizable, showing basically anything you want (ally's/opponent's stats, weaknesses, potential moveset, effective moves, moves used, health bars - pretty af,...).
+
 ## Documentation
 Unreleased. Estimated release `31/5/2023`
 [Documentation](https://linktodocumentation) / [Guide](https://linktodocumentation)
@@ -161,7 +163,6 @@ It provides too much of an advantage to people who purchase this bot, this can't
 It's the game's fault for being boring, instead of spending precious hours of my time on the pointless bot I can just automate all of them. I'm only releasing this trying to find my way out of the game, but Ive gotta ruin the whole playerbase first.
 
 ## Authors
-Click on the link to get my profile.
 ##### [vanta#0099]()
 ##### [suicao#7766]()
 
