@@ -70,7 +70,7 @@ It doesn’t require a super beefy computer to run, but any computer there is. S
 - **GPU**: Optional, will obv boost captcha solving speed (not needed tbh).
 
 ## How can I get it?
-First of all, it isn't free. You can purchase each part of the bot separately, or buy from bundles for reduced price. **The captcha solver is NOT included in individual purchases**. See `Pricing`. Please contact our sales manager [Facebook Profile](https://www.facebook.com/profile.php?id=100077970695827&mibextid=ZbWKwL) if you're interested in purchasing!
+First of all, it isn't free. You can purchase each part of the bot separately, or buy from bundles for reduced price. **The captcha solver is NOT included in individual purchases**. See `Pricing`. Please contact me [Facebook Profile]([https://www.facebook.com/profile.php?id=100077970695827&mibextid=ZbWKwL](https://www.facebook.com/profile.php?id=100075024516185)) if you're interested in purchasing!
 
 
 ## Pricing (BEING CHANGED)
