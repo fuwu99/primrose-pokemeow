@@ -71,7 +71,7 @@ It doesn’t require a super beefy computer to run, but any computer there is. S
 
 ## How can I get it?
 First of all, it isn't free. You can purchase each part of the bot separately, or buy from bundles for reduced price. **The captcha solver is NOT included in individual purchases**. See `Pricing`. Please contact me if you're interested in purchasing!
-- https://www.facebook.com/profile.php?id=100077970695827&mibextid=ZbWKwL](https://www.facebook.com/profile.php?id=100075024516185
+- https://www.facebook.com/profile.php?id=100075024516185
 
 ## Pricing (BEING CHANGED)
 **A little note:** The captcha solver itself even when not paired with any of the other parts (hunting, fishing,...) still solves captchas automatically whenever you encounter one. **The pricings include unlimited accounts, and a limit of 2 devices.** `USD stands for US dollars`
