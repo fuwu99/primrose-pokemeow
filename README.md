@@ -65,7 +65,7 @@ Stats are here to demonstrate how effective the bot is. Stats were updated on `2
 It doesn’t require a super beefy computer to run, but any computer there is. Still, it is still recommended to have the following specs on your computer:
 
 - **OS**: Windows 7 and greater;  Windows 10 or greater recommended.
-- **CPU**: Any CPUs, 1.5GHz and above.
+- **CPU**: Any CPUs, 1.5GHz and above
 - **RAM**: 500MB of available RAM to be able to operate, runs smoothly at 2GB and up. Insufficient RAM may cause program to freeze.
 - **GPU**: Optional, will obv boost captcha solving speed (not needed tbh).
 
