@@ -5,7 +5,7 @@ A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow de
 - This is **not free**, stop spamming my DMs.
 - I am **not** responsible for any of your bans/loss/mistakes while using the bot.
 - Scroll to the bottom for screenshots
-- [!] The program doesn't use any external captcha solving services like 2captcha, saving alot of money in the long run.
+- [!] The program doesn't use any external captcha solving services like 2captcha, saving alot of money in the long run. The captcha solver is muuuch more accurate than the external solving services too.
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1105446972313317427/1108746373928591360/rsz_1untitled-removebg-preview.png)
 
@@ -156,11 +156,7 @@ You literally can make hundreds of millions pokecoins from special battletower g
 
 #### Why remove battletower bot from sale soon?
 
-It provides too much of an advantage to people who purchase this bot, this can't be made lightly. Thus only selling it exclusively to people who are early, might remove it in about two weeks time.
-
-#### Why bot?
-
-It's the game's fault for being boring, instead of spending precious hours of my time on the pointless bot I can just automate all of them. I'm only releasing this trying to find my way out of the game, but Ive gotta ruin the whole playerbase first.
+It provides too much of an advantage to people who purchase this bot, this can't be made lightly. Thus only selling it exclusively to people who are early, might remove it in about some time.
 
 ## Authors
 ##### [vanta#0099]()
