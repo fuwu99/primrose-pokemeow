@@ -17,18 +17,18 @@ Pokemeow recently implemented an anti-cheat, which automatically bans accounts w
 - [ADDED!] Multi-account running mode! Run all your player profiles in just one command! Comes as an extension to the main cogs
 
 # Stats
-Stats are here to demonstrate how effective the bot is. Stats were updated on `20:08 24/5/2023 AEST` or `06:09 24/5/2023 EST`
-- **Pokemons Caught**: 322k
-- **Legendaries Caught**: 631
-- **Shinies Caught**: 201
-- **Fishes Caught**: 87k
-- **Legendary Fishes Caught**: 189
-- **Shiny Fishes Caught**: 18
-- **Golden Fishes Caught**: None
-- **Battles Won**: 23k
+Stats are here to demonstrate how effective the bot is. Stats were updated on `11:37 11/7/2023 AEST` or `09:40 11/7/2023 EST`
+- **Pokemons Caught**: 549k
+- **Legendaries Caught**: 1.1k
+- **Shinies Caught**: 420
+- **Fishes Caught**: 121k
+- **Legendary Fishes Caught**: 225
+- **Shiny Fishes Caught**: 47
+- **Golden Fishes Caught**: 1!!!
+- **Battles Won**: 24k
 - **Battletower Floors Cleared**: 17k
-- **Battle Icons Retrieved**: 27
-- **Captchas Solved**: 9k
+- **Battle Icons Retrieved**: 51
+- **Captchas Solved**: 16k
 
 ## Overview
 
@@ -82,6 +82,9 @@ First of all, it isn't free. You can purchase each part of the bot separately, o
 - **Battling (/battle)** - 10 USD
 - **Swapping (/swap)** - 3 USD
 - **Custom-made Battletower Bot** - 200 USD
+
+Upgrades:
+- **Multi-account Upgrade**: - 5 USD (recommended for ppl with alot of accounts, saves sweat / Include both multi for fishing & hunting)
 
 **Bundles:** `CS stands for Captcha Solver`
 
