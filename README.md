@@ -14,7 +14,7 @@ Pokemeow recently implemented an anti-cheat, which automatically bans accounts w
 - [BYPASSED!] Pokemeow's built-in anticheat.
 - [BYPASSED!] Pokemeow's latest Captcha system involving text-only responses, and harder captcha images.
 - [ADDED!] Human Behaviour Imitation with breaks, decoys, player interactions, etc.
-- [ADDED!] Multi-account running mode! Run all your player profiles in just one command! Comes as an extension to the main cogs.
+- [ADDED!] Multi-account running mode! Run all your player profiles in just one command! Comes as an extension to the main cogs
 
 # Stats
 Stats are here to demonstrate how effective the bot is. Stats were updated on `20:08 24/5/2023 AEST` or `06:09 24/5/2023 EST`
