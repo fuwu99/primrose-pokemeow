@@ -1,5 +1,5 @@
 
-# Primrose Selfbot
+# Primrose Selfbot - V4 IS OUT NOW
 
 A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow devs cry.
 - This is **not free**, stop spamming my DMs.
@@ -9,12 +9,35 @@ A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow de
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1105446972313317427/1108746373928591360/rsz_1untitled-removebg-preview.png)
 
-# Newest changes
-Pokemeow recently implemented an anti-cheat, which automatically bans accounts who they deem to be suspicious of botting. [UPDATE!] Pokemeow just added a new Captcha System too. Bot status:
-- [BYPASSED!] Pokemeow's built-in anticheat.
-- [BYPASSED!] Pokemeow's latest Captcha system involving text-only responses, and harder captcha images.
-- [ADDED!] Human Behaviour Imitation with breaks, decoys, player interactions, etc.
-- [ADDED!] Multi-account running mode! Run all your player profiles in just one command! Comes as an extension to the main cogs
+## Important
+- Huge V4 Update is out
+
+## Pricing V4
+**A little note:** The captcha solver itself even when not paired with any of the other parts (hunting, fishing,...) still solves captchas automatically whenever you encounter one. **The pricings include unlimited accounts, and a limit of 2 devices.** `USD stands for US dollars`
+
+- **Captcha solver** - 8 USD
+- **Hunting (/pokemon)** - 15 USD
+- **Fishing (/fish spawn)** - 15 USD
+- **Battling (/battle)** - 15 USD
+- **Swapping (/swap)** - 3 USD
+- **Custom-made Battletower Bot** - out of stock
+
+Upgrades: (Standalone)
+- **Multi-account Upgrade**: - 5 USD (recommended for ppl with alot of accounts, saves sweat / Include both multi for fishing & hunting)
+
+**Bundles:** `CS stands for Captcha Solver`
+
+- **Bundle 1**: Hunting + CS - 17 USD
+- **Bundle 2**: Hunting + Fishing + CS - 30 USD
+- **Bundle 3**: Hunting + Fishing + Battle + CS - 40 USD
+
+**Bundles content and prices have been changed as of V4 UPDATE**. Prices might be negotiable.
+
+- If you share this Github repo to somebody else, **and a purchase is made by that person**, then you would get a **5% discount** from all your own purchases in the future.
+- The Custom-made Battletower bot will probably **won't be on sale for long**.
+- If you want me to add extra capabilities for the bot, or custom-made a part of the bot, please let me know! I'll be sure to share a helping hand, but it may cost you a little more! so... xd
+
+I also do grind, fish, battle, swap, battletower service/commision for a fair price
 
 # Stats
 Stats are here to demonstrate how effective the bot is. Stats were updated on `11:37 11/7/2023 AEST` or `09:40 11/7/2023 EST`
@@ -29,17 +52,6 @@ Stats are here to demonstrate how effective the bot is. Stats were updated on `1
 - **Battletower Floors Cleared**: 17k
 - **Battle Icons Retrieved**: 51
 - **Captchas Solved**: 16k
-
-## Overview
-
-- **Modern, easy to use, feature-rich and responsive**.
-- Utilizes *modern Pythonic API* via asyncio.
-- A *rate limit handler* included, preventing *[429: TOO MANY REQUESTS]* errors & rate-limits.
-- Supreme in both **speed and memory usage**.
-- **Fully prevents detection** of user account automation.
-- **Adaptable** to your Internet Connection!
-- **Frequently updated for new functionalities**.
-
 
 ## Features
 
@@ -60,71 +72,12 @@ Stats are here to demonstrate how effective the bot is. Stats were updated on `1
 - *Detailed changelog with specific description of added features / updates / bug fixes.*
 - *Good stuff in development!*
 
-## Minimum Specs
-
-It doesn’t require a super beefy computer to run, but any computer there is. Still, it is still recommended to have the following specs on your computer:
-
-- **OS**: Windows 7 and greater;  Windows 10 or greater recommended.
-- **CPU**: Any CPUs, 1.5GHz and above
-- **RAM**: 500MB of available RAM to be able to operate, runs smoothly at 2GB and up. Insufficient RAM may cause program to freeze.
-- **GPU**: Optional, will obv boost captcha solving speed (not needed tbh).
-
 ## How can I get it?
 First of all, it isn't free. You can purchase each part of the bot separately, or buy from bundles for reduced price. **The captcha solver is NOT included in individual purchases**. See `Pricing`. Please contact me if you're interested in purchasing!
 - https://www.facebook.com/profile.php?id=100075024516185
 
-## Pricing (BEING CHANGED)
-**A little note:** The captcha solver itself even when not paired with any of the other parts (hunting, fishing,...) still solves captchas automatically whenever you encounter one. **The pricings include unlimited accounts, and a limit of 2 devices.** `USD stands for US dollars`
-
-- **Captcha solver** - 8 USD
-- **Hunting (/pokemon)** - 15 USD
-- **Fishing (/fish spawn)** - 15 USD
-- **Battling (/battle)** - 10 USD
-- **Swapping (/swap)** - 3 USD
-- **Custom-made Battletower Bot** - 200 USD
-
-Upgrades:
-- **Multi-account Upgrade**: - 5 USD (recommended for ppl with alot of accounts, saves sweat / Include both multi for fishing & hunting)
-
-**Bundles:** `CS stands for Captcha Solver`
-
-- **Bundle 1**: Hunting + CS - 15 USD
-- **Bundle 2**: Hunting + Fishing + CS - 27 USD
-- **Bundle 3**: Hunting + Fishing + Battle + CS - 35 USD
-
-**Bundles content and prices are subjected to change in the future**. Prices might be negotiable.
-
-- If you share this Github repo to somebody else, **and a purchase is made by that person**, then you would get a **5% discount** from all your own purchases in the future.
-- The Custom-made Battletower bot will probably **won't be on sale for long**.
-- If you want me to add extra capabilities for the bot, or custom-made a part of the bot, please let me know! I'll be sure to share a helping hand, but it may cost you a little more! so... xd
-
-I also do grind, fish, battle, swap, battletower service/commision for a fair price
-
-## Battletower Bot Capabilities
-
-This is an extra section made for people who are curious about what the Battletower Bot can do. 
-#### Move selection
-- It was already provided with a database consisting of all 140 pokemons that would be appearing in the battletower (As of May 18th 2023).
-- In case the opponent's pokemon is not in the current database, it will automatically do api calls and search for the information on that specific pokemon.
-- Automatically chooses the best move to use depending on type weakness of the opposing pokemon.
-- Automatically caches the opponent's team info and plan the according moves.
-- Custom wall pokemons database, which will cause the ally pokemon to use the highest damage-dealing move.
-#### Automatic Switching
-- The bot will automatically analyze the current matchup to find if the ally pokemon is in danger, or there are pokemons in the party that could handle the current opponent's pokemon better.
-- If it's not switchable, the ally pokemon would use the highest damage-dealing move.
-#### Automatic Forfeiting
-- The bot will automatically forfeits if the user is on last pokemon, and the HP percentage/number is lower than the specified threshold.
-- If you wanna be safe, make it always forfeit whenever reaching last pokemon (no risks).
-#### Guarranteed Winrate (Tested)
-- If you've got a good team with coverage, items, and pokemons that could deal with threats then the winrate could range from 57-59.
-- Non-golden teams with items and good IVS still can achieve acceptable winrates ranging from 47(lowest)-55(highest).
-- Just pray to god that you don't get bad G teams matchup, then everything's good.
-#### Interface 
-- Clean, viewable.
-- The information displayed in the bot console is totally customizable, showing basically anything you want (ally's/opponent's stats, weaknesses, potential moveset, effective moves, moves used, health bars - pretty af,...).
-
 ## Documentation
-Unreleased. Estimated release `31/5/2023`
+Unreleased. Estimated release `NULL`
 [Documentation](https://linktodocumentation) / [Guide](https://linktodocumentation)
 
 ## FAQ
@@ -164,15 +117,6 @@ It provides too much of an advantage to people who purchase this bot, this can't
 ## Authors
 ##### [vanta#0099]()
 ##### [suicao#7766]()
-
-## In development
-In bold: Implemented
-- Mixed grinding mode (fish, battle, hunt)
-- **Automatic swapping**
-- **Automatic fossil exchanging**
-- **Automatic Event Ticket purchasing**
-- Add more configuration
-If you have any good ideas and want me to implement it, DM me via Discord! If it's a really good suggestion, you might get a one-month trial of the bot's features too!
 
 ## Screenshots
 ![App Screenshot](https://github.com/fuwu99/primrose-pokemeow/blob/main/images/captcha%20solving.PNG)
