@@ -12,7 +12,7 @@ A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow de
 ## Important
 - V5 Update is out
 
-## Pricing V4
+## Pricing V5
 **A little note:** The captcha solver itself even when not paired with any of the other parts (hunting, fishing,...) still solves captchas automatically whenever you encounter one. **The pricings include unlimited accounts, and a limit of 2 devices.** `USD stands for US dollars`
 
 - **Captcha solver** - 8 USD
