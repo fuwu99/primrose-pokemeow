@@ -1,5 +1,5 @@
 
-# Primrose Selfbot - V4 IS OUT NOW
+# Primrose Selfbot - V5 IS OUT
 
 A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow devs cry
 - This is **not free**, stop spamming my DMs.
