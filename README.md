@@ -1,7 +1,7 @@
 
 # Primrose Selfbot - V4 IS OUT NOW
 
-A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow devs cry.
+A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow devs cry
 - This is **not free**, stop spamming my DMs.
 - I am **not** responsible for any of your bans/loss/mistakes while using the bot.
 - Scroll to the bottom for screenshots
@@ -10,7 +10,7 @@ A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow de
 ![App Screenshot](https://cdn.discordapp.com/attachments/1105446972313317427/1108746373928591360/rsz_1untitled-removebg-preview.png)
 
 ## Important
-- Huge V4 Update is out
+- V5 Update is out
 
 ## Pricing V4
 **A little note:** The captcha solver itself even when not paired with any of the other parts (hunting, fishing,...) still solves captchas automatically whenever you encounter one. **The pricings include unlimited accounts, and a limit of 2 devices.** `USD stands for US dollars`
