@@ -1,6 +1,12 @@
 
-# Primrose Selfbot - V5 IS OUT
+# Primrose Selfbot
 
+# From 27/12/2023, this repository is archived and read-only, and I no longer accepts orders on Primrose.
+## The rebranded version will come out on the 1st of Jan 2024 or sooner, and prices for the new bot will be temporarily discounted for a limited time
+### All primrose clients will get a free update to the new bot, plus temporary discounts for new features.
+### Thank you to all clients for supporting the bot for the past year! 
+
+## Overview
 A **feature-rich, advanced, performant PokéMeow selfbot** that can make Meow devs cry
 - This is **not free**, stop spamming my DMs.
 - I am **not** responsible for any of your bans/loss/mistakes while using the bot.
